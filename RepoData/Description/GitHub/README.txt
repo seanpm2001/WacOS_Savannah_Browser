@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+A separate repository for the archival and development of Savannah, an open source remake of Safari. Written in C++, and part of the WacOS operating system project.
